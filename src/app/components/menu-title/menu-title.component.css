@@ -1,0 +1,19 @@
+.blogTitle{
+    color: white;
+}
+.blogTitle > h1{
+    margin-top: 15px;
+    margin: bottom 15px;
+    font-size: 135px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: center;
+
+}
+
+.blogTitle > hr{
+    margin-top: 10px;
+    margin-bottom: 5px;
+    
+
+}
