@@ -6,6 +6,9 @@
     justify-content: center;
 
 }
+.articles__others > a{
+    text-decoration: none;
+}
 
 header{
     
